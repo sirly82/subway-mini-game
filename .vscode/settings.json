@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "mini-subway-game.sln"
+    "dotnet.defaultSolution": "subway-mini-game.sln"
 }
